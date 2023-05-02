@@ -1,3 +1,12 @@
+## How to run file
+
+1.Download zip file.<br/>
+2.Extract zip file in your sytem.<br/>
+3.Open file in VS code.<br/>
+4.Open terminal in Vs code.<br/>
+5.Run command- npm i.<br/>
+6.Run command- npm start.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
