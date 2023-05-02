@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test_zapilio_resume/static/css/main.e6c13ad2.css",
+    "main.js": "/test_zapilio_resume/static/js/main.488cb201.js",
+    "index.html": "/test_zapilio_resume/index.html",
+    "main.e6c13ad2.css.map": "/test_zapilio_resume/static/css/main.e6c13ad2.css.map",
+    "main.488cb201.js.map": "/test_zapilio_resume/static/js/main.488cb201.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.488cb201.js"
+  ]
+}
